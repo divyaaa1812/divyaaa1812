@@ -3,7 +3,6 @@ I'm a passionate junior front-end developer who loves creating responsive, user-
 
 I've graduated from TripleTen's web development boot camp as a full-stack web developer. During my time there, I collaborated on projects that not only enhanced my technical proficiency but also emphasized the significance of delivering top-notch solutions that surpass user expectations.
 
----
 
 ## 🛠️ Technologies & Tools
 
@@ -23,7 +22,7 @@ I've graduated from TripleTen's web development boot camp as a full-stack web de
 
 - LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/divyabharathibadugu/)
 - Email: divyaaa1812@gmail.com
----
+
 ## 🚀 Projects
 
 ### [NewsExplorer](https://github.com/divyaaa1812/news-explorer-app-frontend)
@@ -34,11 +33,10 @@ TechStack - React JS, Express JS
 What to Wear web app is designed to offer personalized suggestions to choose daily outfits based on user preferences and the weather forecast.
 Tech stack - React JS, Express JS, MongoDB
 
----
 ## 📍 Location
 
 I'm based in San Francisco, but I'm open to remote work opportunities.
----
+
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always open to new opportunities and connections!
 
 Thanks for visiting my profile!
