@@ -21,7 +21,7 @@ I've graduated from TripleTen's web development boot camp as a full-stack web de
   
 ## 📫 How to reach me
 
-- LinkedIn [Your LinkedIn Profile](https://www.linkedin.com/in/divyabharathibadugu/)
+- LinkedIn [Profile](https://www.linkedin.com/in/divyabharathibadugu/)
 - Email: divyaaa1812@gmail.com
 
 ## 🚀 Projects
