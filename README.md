@@ -28,10 +28,12 @@ I've graduated from TripleTen's web development boot camp as a full-stack web de
 
 ### [NewsExplorer](https://github.com/divyaaa1812/news-explorer-app-frontend)
 News Explorer web application revolutionizes the way users stay informed by providing a sophisticated platform for discovering, saving, and exploring news articles from around the globe
+
 TechStack - React JS, Express JS
 
 ### [What To Wear](https://github.com/divyaaa1812/se_project_react)
-What to Wear web app is designed to offer personalized suggestions to choose daily outfits based on user preferences and the weather forecast.
+What to Wear web app is designed to offer personalized suggestions to choose daily outfits based on user preferences and the weather forecast
+
 Tech stack - React JS, Express JS, MongoDB
 
 ## 📍 Location
